@@ -1,0 +1,11 @@
+{ 
+"name": "Global eShop",
+"website": "https://hqyp.cc",
+"description": "Mall tokens on the Globe Tesco chain",
+"explorer": "https://bscscan.com/token/0x573D1BaB901A9AE64df10708F9f96D5B090144e5",
+"type": "BEP20",
+"symbol": "Gep",
+"decimals": 18,
+"status": "active",
+"id": "0x573D1BaB901A9AE64df10708F9f96D5B090144e5"
+}
